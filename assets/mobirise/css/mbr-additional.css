@@ -1160,12 +1160,12 @@ section.lazy-placeholder:after {
 }
 .cid-t9pkoUAzZA .navbar {
   padding: .5rem 0;
-  background: #000000;
+  background: #333333;
   transition: none;
   min-height: 77px;
 }
 .cid-t9pkoUAzZA .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #333333;
 }
 .cid-t9pkoUAzZA a {
   font-style: normal;
@@ -1256,7 +1256,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-t9pkoUAzZA .dropdown .dropdown-menu {
-  background: #000000;
+  background: #333333;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -1566,19 +1566,19 @@ section.lazy-placeholder:after {
 .cid-t9pkoUAzZA .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-t9An1OfWQB {
-  padding-top: 120px;
+.cid-t9SJfZ4Lep {
+  padding-top: 90px;
   padding-bottom: 60px;
   background: linear-gradient(0deg, #232323, #232323);
 }
-.cid-t9An1OfWQB .mbr-iconfont-social {
+.cid-t9SJfZ4Lep .mbr-iconfont-social {
   font-size: 32px;
   color: #ff3366;
 }
-.cid-t9An1OfWQB .social-list a:focus {
+.cid-t9SJfZ4Lep .social-list a:focus {
   text-decoration: none;
 }
-.cid-t9An1OfWQB H2 {
+.cid-t9SJfZ4Lep H2 {
   color: #ffffff;
 }
 .cid-t9AoFEWGL3 {
@@ -2015,19 +2015,19 @@ section.lazy-placeholder:after {
 .cid-t9plQBVfVA textarea.form-control {
   min-height: 188px;
 }
-.cid-t9ArFmvSMw {
+.cid-t9SJlpfzwg {
   padding-top: 90px;
   padding-bottom: 60px;
   background: linear-gradient(0deg, #232323, #232323);
 }
-.cid-t9ArFmvSMw .mbr-iconfont-social {
+.cid-t9SJlpfzwg .mbr-iconfont-social {
   font-size: 32px;
   color: #ff3366;
 }
-.cid-t9ArFmvSMw .social-list a:focus {
+.cid-t9SJlpfzwg .social-list a:focus {
   text-decoration: none;
 }
-.cid-t9ArFmvSMw H2 {
+.cid-t9SJlpfzwg H2 {
   color: #ffffff;
 }
 .cid-t9AoFEWGL3 {
@@ -2593,19 +2593,19 @@ section.lazy-placeholder:after {
   display: flex;
   flex-direction: column-reverse;
 }
-.cid-t9ArIUQaga {
+.cid-t9SJpcRG5C {
   padding-top: 90px;
   padding-bottom: 60px;
   background: linear-gradient(0deg, #232323, #232323);
 }
-.cid-t9ArIUQaga .mbr-iconfont-social {
+.cid-t9SJpcRG5C .mbr-iconfont-social {
   font-size: 32px;
   color: #ff3366;
 }
-.cid-t9ArIUQaga .social-list a:focus {
+.cid-t9SJpcRG5C .social-list a:focus {
   text-decoration: none;
 }
-.cid-t9ArIUQaga H2 {
+.cid-t9SJpcRG5C H2 {
   color: #ffffff;
 }
 .cid-t9AoFEWGL3 {
